@@ -1,4 +1,4 @@
 thewirl.github.io
 =================
 
-My Increasingly Interactive Resume Supplemental;
+My Increasingly Interactive Resume Supplemental
