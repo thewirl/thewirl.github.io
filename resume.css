@@ -1,0 +1,30 @@
+body{	font-family:"Arial", Helvetica, sans-serif; background-color:#fff5ee;	}
+a{	font-family:"Courier New", Courier, monospace; font-size:80%;	}
+h1{	font-family:"Courier New", Courier, monospace; font-size:180%;	}
+h2{	font-family:"Courier New", Courier, monospace; font-size:160%;	}
+h3{	font-family:"Courier New", Courier, monospace; font-size:120%;	}
+ul{	font-family:"Courier New", Courier, monospace;	}
+li{	font-style:italic;	}
+#top{	background-color:tan; border:solid;border-width:3px;	}
+.hidden{	display:none;	}
+#middle{	}
+.bod{	margin-left:12px; margin-right:60px; border:dotted;border-width:1px;	}
+#bottom{	}
+#headline{}
+#pdf{}
+#contact{}
+#showkey{}
+#pubkey{	background-color:palegoldenrod;margin-top:16px;margin-left:2px;margin-right:16px;border:solid;border-width:1px;width:38%;height:30%;word-wrap:break-word;font-size:50%;position:absolute;top:0%;left:61%;	}
+#middle{}
+#profile{	background-color:tan;border:solid;border-width:1px;	}
+#prof{		background-color:palegreen;	}
+#skills{	background-color:tan;border:solid;border-width:1px;	} 
+#uxadm{		margin-left:120px;margin-right:120px;background-color:palegreen;	}
+#sweng{		margin-left:120px;margin-right:120px;background-color:paleturquoise;	}
+#progr{		margin-left:120px;margin-right:120px;background-color:palegoldenrod;	}
+#ifsec{		margin-left:120px;margin-right:120px;background-color:palevioletred;	}
+#experience{	background-color:tan; border:solid;border-width:1px;	}
+#dev{		background-color:palevioletred;	}
+#web{		background-color:palegreen;	}
+#gitportfolio{	background-color:tan; border:solid;border-width:1px;	}
+#bottom{	background-color:tan; border:solid;border-width:1px;	}
